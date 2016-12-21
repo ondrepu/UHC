@@ -1,0 +1,8 @@
+name: UltraHardcore
+version: 1.0
+main: ondre.uhc.Main
+author: Ondre
+
+commands:
+    setlobby:
+    online:
